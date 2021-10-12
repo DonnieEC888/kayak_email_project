@@ -1,7 +1,4 @@
-// These are the styles to make some of the templates look extra nice.
-// Feel free to remove these styles for production!
-
-// Body Styles 
+ 
 body,
 html, 
 .body {
@@ -12,18 +9,38 @@ html,
   background: #ff6a10 !important;
 
   .header_padding {
-    padding-top: 20px !important;
-    padding-right: 20px !important;
-    padding-bottom: 20px !important;
-    padding-left: 20px !important;
+    padding-top: 15px !important;
+    padding-right: 15px !important;
+    padding-bottom: 12px !important;
+    padding-left: 15px !important;
   }
 
   .logo_img {
-    width: 128px;
+    width: 120px;
+
+    @media only screen and (max-width: 425px) {
+      width: 100px !important;
+    }
   }
 
   .user_img {
-    width: 29px;
+    width: 24px;
+
+    @media only screen and (max-width: 425px) {
+      width: 20px !important;
+    }
+  }
+}
+
+.sub_header {
+  background: #d65700;
+
+  .sub_padding {
+    padding-bottom: 2px !important;
+  }
+
+  .submenu_img {
+    padding-top: 5px;
   }
 }
 
