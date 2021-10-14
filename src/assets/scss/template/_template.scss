@@ -47,6 +47,10 @@ html,
 
 .deal_of_the_day {
   background: #14191e !important;
+  
+  .deal_padding {
+    padding-top: 20px !important;
+  }
 
   .section_title {
     @include info_text;
@@ -54,23 +58,32 @@ html,
 
   .ireland_info {
     @include info_text;
+    padding-top: 20px ;
   }
 
   .savings {
     @include info_text;
+    margin-bottom: 0 !important;
+    margin-top: 10px !important;
   }
   .gate {
     @include info_text;
     font-weight: 300 !important;
+    font-size: 10px;
   }
 
   .price {
     @include info_text;
+    margin-bottom: 14px;
   }
 
   .button {
       @include info_text;
-      width: 150px;
+      border: 2px solid #ffffff;
+      border-radius: 4px;
+     padding: 5px 40px;
+     
+
     }
 
 
