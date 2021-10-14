@@ -45,3 +45,37 @@ html,
 }
 
 
+.deal_of_the_day {
+  background: #14191e !important;
+
+  .section_title {
+    @include info_text;
+  }
+
+  .ireland_info {
+    @include info_text;
+  }
+
+  .savings {
+    @include info_text;
+  }
+  .gate {
+    @include info_text;
+    font-weight: 300 !important;
+  }
+
+  .price {
+    @include info_text;
+  }
+
+  .button {
+      @include info_text;
+      width: 150px;
+    }
+
+
+}
+
+
+
+
