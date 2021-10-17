@@ -152,3 +152,11 @@ $thumbnail-radius: $global-radius;
   font-weight: 700;
   text-align: center;
 }
+
+@mixin content_text {
+  color: #394c5a;
+  font-weight: 600;
+  text-align: center;
+}
+
+

@@ -89,6 +89,120 @@ html,
 
 }
 
+.content_container {
+  background: #f1f4f7 !important;
+  background-color: #f1f4f7 !important;
+  
+  .content_padding {
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 0 !important;
+    padding-left: 20px !important;
+  }
+ 
+  .content {
+    background: #ffffff !important;
+    background-color: #ffffff !important;
+  }
+
+  .content_area_padding {
+    padding-top: 25px !important;
+    padding-right: 25px !important;
+    padding-bottom: 25px !important;
+    padding-left: 25px !important;
+  }
+
+  .cancun_img {
+    width: 500px !important;
+  }
+
+  .cancun_info {
+    @include content_text;
+    font-weight: 800 !important;
+    color: #394c5a !important;
+    padding-top: 20px ;
+    
+  }
+
+  .savings {
+    @include content_text;
+    color: #2797f5 !important;
+    margin-bottom: 0 !important;
+    margin-top: 10px !important;
+  }
+  .website {
+    @include content_text;
+    font-weight: 300 !important;
+    font-size: 10px;
+  }
+
+  .price {
+    @include content_text;
+    margin-bottom: 14px;
+    font-weight: 700;
+  }
+
+  .button {
+    background: #14191e !important;
+      color: #ffffff;
+      border-radius: 4px;
+      padding: 5px 40px;
+      font-weight: 700;
+
+    }
+}
+
+.sub_container {
+  background: #f1f4f7 !important;
+  background-color: #f1f4f7 !important;
+  
+  .content_padding {
+    padding-top: 15px !important;
+    padding-right: 20px !important;
+    padding-bottom: 0 !important;
+    padding-left: 20px !important;
+  }
+ 
+  .content {
+    background: #ffffff !important;
+    background-color: #ffffff !important;
+  }
+
+  .content_area_padding {
+   padding-top: 30px !important;
+   padding-right: 30px !important;
+   padding-bottom: 25px !important;
+   padding-left: 30px !important;
+  }
+
+  .group_icons {
+    width: 180px;
+  }
+
+  .sub_title {
+    @include content_text;
+    font-weight: 800 !important;
+    color: #394c5a !important;
+    padding-top: 20px ;
+    
+  }
+
+  .sub_info {
+    @include content_text;
+    color: #4f606c;
+    font-size: 14px;
+    padding: 0 20px;
+    margin-bottom: 20px !important;
+  }
+  .button {
+    background: #14191e !important;
+      color: #ffffff;
+      border-radius: 4px;
+      padding: 5px 40px;
+      font-weight: 700;
+    }
+}
+
 
 
 
