@@ -247,6 +247,28 @@ html,
   }
 }
 
+.social_section {
+  background: #14191e !important;
+
+ .social_padding {
+   padding: 20px;
+ }
+
+  .footer_social_icon {
+    width: 125px;
+  }
+
+  .icon_container {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+
+    .social_icon {
+      width: 20px !important;
+    }
+  }
+
+}
+
 
 
 
