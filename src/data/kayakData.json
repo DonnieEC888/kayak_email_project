@@ -1,0 +1,21 @@
+{
+    "offers":[
+        {
+        "location": "Ireland",
+        "description": "8 days with air, hotel and car rental. Use promo code CFDL110 save. Price reflects NYC departure, other cities available.",
+        "savings": "Save $110 with code",
+        "tinyInfo": "Gate 1 Travel",
+        "price": "649",
+        "image": "/assets/img/kayak_img/ireland.png"
+    },
+    {
+        "location": "Cancun",
+        "description": "4 nights with air and Melody Maker Cancun stay. Price reflects MIA departure, other cities available.",
+        "savings": "Save up to 65%",
+        "tinyInfo": "CheapCaribbean.com",
+        "price": "689",
+        "image": "/assets/img/kayak_img/cancun.png"
+    }
+
+]
+}
