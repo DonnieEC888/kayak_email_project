@@ -284,6 +284,43 @@ html,
 
 }
 
+.footer_bottom {
+  background: #14191e;
+  padding-bottom: 0;
+
+  .footer_links_menu {
+    .links_container {
+      padding-top: 5px;
+      th {
+        text-align: center;
+      }
+      .links {
+        color: #ffffff;
+        font-weight: 500 ;
+        margin-right: 10px;
+      }
+    }
+  }
+
+.privacy_text {
+  p {
+    color: #ffffff;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+  }
+}
+
+.company_info {
+  p {
+    color: #ffffff;
+    font-weight: 500;
+    margin-bottom: 3px !important;
+  }
+}
+
+}
+
+
 
 
 
