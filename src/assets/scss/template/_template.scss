@@ -250,9 +250,15 @@ html,
 .social_section {
   background: #14191e !important;
 
+
+
  .social_padding {
    padding: 20px;
  }
+
+ th.large-3 {
+  width: 95px !important;
+}
 
   .footer_social_icon {
     width: 125px;
@@ -261,13 +267,16 @@ html,
   .icon_container {
     padding-right: 0 !important;
     padding-left: 0 !important;
+   
 
     .social_icon {
-      width: 20px !important;
+      width: 25px !important;
     }
   }
 
 }
+
+
 
 
 
