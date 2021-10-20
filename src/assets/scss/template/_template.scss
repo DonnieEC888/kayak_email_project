@@ -212,6 +212,11 @@ html,
     padding-right: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
+
+    @media only screen and (max-width: 425px) {
+     padding-bottom: 0 !important;
+     padding-top: 25px !important;
+}
   }
 
   .footer_right {
@@ -219,6 +224,11 @@ html,
     padding-right: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
+
+    @media only screen and (max-width: 425px) {
+      padding-bottom: 0 !important;
+      padding-top: 25px !important;
+ }
   }
 
   .footer_logo {
@@ -234,18 +244,43 @@ html,
     font-weight: 600;
     font-size: 14px;
     margin-bottom: 5px !important;
-  }
 
+    @media only screen and (max-width: 425px) {
+      padding-left: 10px !important;
+      font-size: 12px !important;
+}
+
+  }
   .info {
     color: #ffffff;
     font-weight: 600;
     font-size: 12px;
+
+    @media only screen and (max-width: 425px) {
+      padding-left: 10px !important;
+}
   }
+
+  }
+
+  
+
+     .appstore_logo {
+      @media only screen and (max-width: 425px) {
+        width: 84.938px !important;
+        height: 28.313px !important;
+  }
+    }
 
   .playstore_logo {
     height: 41.48px;
-  }
+
+    @media only screen and (max-width: 425px) {
+      width: 84.938px !important;
+      height: 28.313px !important;
 }
+  }
+
 
 .social_section {
   background: #14191e !important;
@@ -261,6 +296,9 @@ html,
 
  th.large-3 {
   width: 95px !important;
+  @media only screen and (max-width: 425px) {
+    width: 100px !important;
+}
 }
 
   .footer_social_icon {
@@ -270,8 +308,6 @@ html,
   .icon_container {
     padding-right: 0 !important;
     padding-left: 0 !important;
-   
-
     .social_icon {
       width: 25px !important;
     }
@@ -298,6 +334,9 @@ html,
         color: #ffffff;
         font-weight: 500 ;
         margin-right: 10px;
+        @media only screen and (max-width: 425px) {
+          font-size: 12px !important;
+    }
       }
     }
   }
@@ -307,6 +346,9 @@ html,
     color: #ffffff;
     font-size: 12px !important;
     font-weight: 500 !important;
+    @media only screen and (max-width: 425px) {
+      font-size: 12px !important;
+}
   }
 }
 
@@ -315,6 +357,9 @@ html,
     color: #ffffff;
     font-weight: 500;
     margin-bottom: 3px !important;
+    @media only screen and (max-width: 425px) {
+      font-size: 12px !important;
+}
   }
 }
 
