@@ -3,10 +3,12 @@ body,
 html, 
 .body {
   background: #e4e5ea !important;
+  background-color: #e4e5ea !important
 }
 
 .header {
   background: #ff6a10 !important;
+  background-color: #ff6a10 !important;
 
   .header_padding {
     padding-top: 15px !important;
@@ -33,7 +35,8 @@ html,
 }
 
 .sub_header {
-  background: #d65700;
+  background: #d65700 !important;
+  background-color: #d65700 !important;
 
   .sub_padding {
     padding-bottom: 2px !important;
@@ -47,6 +50,7 @@ html,
 
 .deal_of_the_day {
   background: #14191e !important;
+  background-color: #14191e !important;
   
   .deal_padding {
     padding-top: 20px !important;
@@ -144,6 +148,7 @@ html,
 
   .button {
     background: #14191e !important;
+    background-color: #14191e !important;
       color: #ffffff;
       border-radius: 4px;
       padding: 5px 40px;
@@ -196,6 +201,7 @@ html,
   }
   .button {
     background: #14191e !important;
+    background-color: #14191e !important;
       color: #ffffff;
       border-radius: 4px;
       padding: 5px 40px;
@@ -204,7 +210,8 @@ html,
 }
 
 .footer_top {
-  background: #222d37;
+  background: #222d37 !important;
+  background-color: #222d37 !important;
   padding: 10px;
 
   .footer_left {
@@ -284,6 +291,7 @@ html,
 
 .social_section {
   background: #14191e !important;
+  background-color: #14191e !important;
 
 
 
@@ -316,12 +324,14 @@ html,
 }
 
 .footer_menu {
-  background: #14191e;
+  background: #14191e !important;
+  background-color: #14191e !important;
 
 }
 
 .footer_bottom {
-  background: #14191e;
+  background: #14191e !important;
+  background-color: #14191e !important;
   padding-bottom: 0;
 
   .footer_links_menu {
