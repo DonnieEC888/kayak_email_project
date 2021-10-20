@@ -1,21 +1,40 @@
 {
+    "dealOfTheDay": {
+            "location": "Ireland",
+            "description": "8 days with air, hotel and car rental. Use promo code CFDL110 save. Price reflects NYC departure, other cities available.",
+            "savings": "Save $110 with code",
+            "smallInfo": "Gate 1 Travel",
+            "price": "649",
+            "image": "/assets/img/kayak_img/ireland.png"
+
+    },
+
     "offers":[
         {
-        "location": "Ireland",
-        "description": "8 days with air, hotel and car rental. Use promo code CFDL110 save. Price reflects NYC departure, other cities available.",
-        "savings": "Save $110 with code",
-        "tinyInfo": "Gate 1 Travel",
-        "price": "649",
-        "image": "/assets/img/kayak_img/ireland.png"
+        "location": "China",
+        "description": "3 nights with air and hotel stay.",
+        "savings": "Save $250 with code",
+        "smallInfo": "ChinaNow.com",
+        "price": "630",
+        "image": "/assets/img/kayak_img/china.png"
     },
     {
         "location": "Cancun",
         "description": "4 nights with air and Melody Maker Cancun stay. Price reflects MIA departure, other cities available.",
         "savings": "Save up to 65%",
-        "tinyInfo": "CheapCaribbean.com",
+        "smallInfo": "CheapCaribbean.com",
         "price": "689",
         "image": "/assets/img/kayak_img/cancun.png"
+    },
+    {
+        "location": "London",
+        "description": "4 nights with air and stay with Buckingham Plaza.",
+        "savings": "Save up to 50%",
+        "smallInfo": "LondonStay.com",
+        "price": "750",
+        "image": "/assets/img/kayak_img/london.png"
     }
+
 
 ]
 }

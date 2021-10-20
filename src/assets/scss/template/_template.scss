@@ -56,7 +56,7 @@ html,
     @include info_text;
   }
 
-  .ireland_info {
+  .description {
     @include info_text;
     padding-top: 20px ;
   }
@@ -66,7 +66,7 @@ html,
     margin-bottom: 0 !important;
     margin-top: 10px !important;
   }
-  .gate {
+  .small_info {
     @include info_text;
     font-weight: 300 !important;
     font-size: 10px;
@@ -112,11 +112,11 @@ html,
     padding-left: 25px !important;
   }
 
-  .cancun_img {
+  .content_img {
     width: 500px !important;
   }
 
-  .cancun_info {
+  .description {
     @include content_text;
     font-weight: 800 !important;
     color: #394c5a !important;
@@ -130,7 +130,7 @@ html,
     margin-bottom: 0 !important;
     margin-top: 10px !important;
   }
-  .website {
+  .small_info {
     @include content_text;
     font-weight: 300 !important;
     font-size: 10px;
