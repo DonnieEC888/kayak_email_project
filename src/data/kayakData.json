@@ -5,7 +5,7 @@
             "savings": "Save $110 with code",
             "smallInfo": "Gate 1 Travel",
             "price": "649",
-            "image": "/assets/img/kayak_img/ireland.png"
+            "image": "https://i.imgur.com/APtVwsQ.png"
 
     },
 
@@ -16,7 +16,7 @@
         "savings": "Save $250 with code",
         "smallInfo": "ChinaNow.com",
         "price": "630",
-        "image": "/assets/img/kayak_img/china.png"
+        "image": "https://i.imgur.com/mdACe69.jpg"
     },
     {
         "location": "Cancun",
@@ -24,7 +24,7 @@
         "savings": "Save up to 65%",
         "smallInfo": "CheapCaribbean.com",
         "price": "689",
-        "image": "/assets/img/kayak_img/cancun.png"
+        "image": "https://i.imgur.com/xKvw67T.png"
     },
     {
         "location": "London",
@@ -32,7 +32,7 @@
         "savings": "Save up to 50%",
         "smallInfo": "LondonStay.com",
         "price": "750",
-        "image": "/assets/img/kayak_img/london.png"
+        "image": "https://i.imgur.com/fFWYBuy.png"
     }
 
 
